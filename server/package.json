@@ -1,14 +1,14 @@
 {
-	"name": "codeplay-backend",
+	"name": "thrive-evolve-backend",
 	"version": "1.0.0",
-	"description": "codeplay-backend",
+	"description": "thrive-evolve-backend",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
 		"dev": "nodemon index.js"
 	},
 	"keywords": [
-		"codeplay-backend"
+		"thrive-evolve-backend"
 	],
 	"author": "Pranjal Mishra",
 	"license": "ISC",

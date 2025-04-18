@@ -68,7 +68,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
   <body>
       <div class="container">
           <a href="https://codeplay-edtech-project.vercel.app"><img class="logo" src="https://i.ibb.co/g48x1XG/Untitled-design.png"
-                  alt="CodePlay Logo"></a>
+                  alt="Thrive Evolve Logo"></a>
           <div class="message">Course Registration Confirmation</div>
           <div class="body">
               <p>Dear ${name},</p>

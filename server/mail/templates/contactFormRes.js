@@ -75,7 +75,7 @@ exports.contactUsEmail = (
   <body>
       <div class="container">
           <a href="https://codeplay-edtech-project.vercel.app"><img class="logo"
-                  src="https://i.ibb.co/g48x1XG/Untitled-design.png" alt="CodePlay Logo"></a>
+                  src="https://i.ibb.co/g48x1XG/Untitled-design.png" alt="Thrive Evolve Logo"></a>
           <div class="message">Contact Form Confirmation</div>
           <div class="body">
               <p>Dear ${firstname} ${lastname},</p>
